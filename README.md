@@ -1,2 +1,1 @@
-# Randomizer
-Randomizer HW for Soft Dev
+# SoftDev - HW 2 - Randomizer
